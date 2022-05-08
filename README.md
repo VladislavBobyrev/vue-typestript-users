@@ -1,5 +1,5 @@
 
-## Таск мнеджер Vue
+## Like TypeScript
 
 <div align="left">
 
@@ -35,11 +35,13 @@
 </details>
 
 <details >
-  <summary >TypeSctript for Vue</summary>
+  <summary >TypeScript</summary>
  
   [Что это?](https://vuex.vuejs.org/guide/typescript-support.html) 
 
-    Vuex предоставляет свои типы, поэтому вы можете использовать TypeScript для написания определения хранилища. Вам не нужна специальная конфигурация TypeScript для Vuex. Пожалуйста, следуйте базовой настройке TypeScript Vue для настройки вашего проекта.
+    Vuex предоставляет свои типы, поэтому вы можете использовать TypeScript для написания определения хранилища. 
+    Вам не нужна специальная конфигурация TypeScript для Vuex.
+    Пожалуйста, следуйте базовой настройке TypeScript Vue для настройки вашего проекта.
 </details>
 
 <!-- <details>
@@ -73,7 +75,7 @@
 ## Для запуска потребуется
 - этот репозиторий 
  ```
-git clone https://github.com/VladislavBobyrev/
+git clone https://github.com/VladislavBobyrev/vue-typestript-users
 ```
 - node.js 
  
